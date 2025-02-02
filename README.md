@@ -32,7 +32,7 @@ The project entails a game titled "SPACE JET", a straightforward game where user
 # GameOver
 
 
-![image alt](https://github.com/SabahMuhamed/SPACE-JET-GAME/blob/d779684e7158b632dc112b346977ffbcb9ebe2fd/GAME%207_3_2024%209_21_33%20PM.png)
+![image alt](https://github.com/SabahMuhamed/SPACE-JET-GAME/blob/4fb55e5c67b876550b882e23deff2948921b4f53/GAME%207_3_2024%208_48_35%20PM.png)
 
 
   
